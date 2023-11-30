@@ -30,7 +30,7 @@ This application provides restaurant owners and managers with a seamless and use
   - Delivery personnel can update the status of orders, keeping everyone informed.
 ## Screenshots
 
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
+![Screenshot (64)](https://github.com/morya10/Hungry-Haven/assets/133471735/6a3601e5-5e34-47d3-b832-ed5bbccf8ea1)
 ![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
 ![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
 ![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
