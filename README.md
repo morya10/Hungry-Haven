@@ -31,20 +31,21 @@ This application provides restaurant owners and managers with a seamless and use
 ## Screenshots
 
 ![Screenshot (64)](https://github.com/morya10/Hungry-Haven/assets/133471735/6a3601e5-5e34-47d3-b832-ed5bbccf8ea1)
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
-![App Screenshot](C:\Users\91776\Pictures\Screenshots\Screenshot (64))
+![Screenshot (65)](https://github.com/morya10/Hungry-Haven/assets/133471735/3ae18886-0d6f-4780-a241-7ac96254a20a)
+![Screenshot (66)](https://github.com/morya10/Hungry-Haven/assets/133471735/f6100bc4-e631-4268-84a5-c4334b8c63a7)
+![Screenshot (67)](https://github.com/morya10/Hungry-Haven/assets/133471735/d50f709c-7365-4238-be61-acf8c0a8c87b)
+![Screenshot (68)](https://github.com/morya10/Hungry-Haven/assets/133471735/0a100242-d1a8-40ea-a49e-d87ddec069b4)
+![Screenshot (69)](https://github.com/morya10/Hungry-Haven/assets/133471735/e060c103-2950-4fa1-8e8b-495b36e66192)
+![Screenshot (70)](https://github.com/morya10/Hungry-Haven/assets/133471735/086cd80d-d86f-4425-a4ef-4f29b8c003e2)
+![img30](https://github.com/morya10/Hungry-Haven/assets/133471735/0af57892-0040-492f-b38d-68597268f673)
+![img33](https://github.com/morya10/Hungry-Haven/assets/133471735/78eb2d2c-d98a-42f0-ba05-a6ec3587b0e7)
+![img34](https://github.com/morya10/Hungry-Haven/assets/133471735/a0427e59-4475-462c-bf31-3536df675166)
+![img37](https://github.com/morya10/Hungry-Haven/assets/133471735/df72598a-d270-4bfe-b1c0-db10713bbc6c)
+![img40](https://github.com/morya10/Hungry-Haven/assets/133471735/42ee14ff-3860-4a0e-bf8e-c0934ffdcd59)
+![img41](https://github.com/morya10/Hungry-Haven/assets/133471735/eb573a0b-fa00-4446-8217-868391e9c490)
+![img44](https://github.com/morya10/Hungry-Haven/assets/133471735/72c3ce0b-589d-4c74-bcc9-f316acdb58ed)
+![img47](https://github.com/morya10/Hungry-Haven/assets/133471735/615637a3-42aa-42b4-a2cc-a10fa00976cb)
+
 
 
 ## Development Stack
